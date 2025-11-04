@@ -19,6 +19,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 1rem;
   min-height: 100vh;
 }
 
@@ -28,8 +29,8 @@ body {
   background-color: var(--white);
   border: 2px solid black;
   border-radius: 20px;
-  padding: 2rem;
-  width: 90vw;
+  padding: 1rem;
+  width: 95vw;
 }
 
 
@@ -69,7 +70,7 @@ button:hover {
 
 
 img {
-    width: 200px;
+    width: 180px;
 }
 
 h1 {
